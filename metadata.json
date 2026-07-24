@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Placement Club ATS",
+  "description": "Placement Club ATS and Placement Database with real-time Google Sheets integration, recording separate database spreadsheets for Students (resumes, applications) and Admins/Professors (faculty roster, placement drives, reviews).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
